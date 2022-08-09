@@ -1,0 +1,35 @@
+.header__logo {
+  width: 176px;
+  height: 52px;
+  flex-basis: 1107px;
+  background-repeat: no-repeat;
+  background-image: url(../../../images/header-logo.svg);
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1279px) {
+  .header__logo {
+    flex-basis: calc(92.5vw - 75.69px);
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .header__logo {
+    flex-basis: calc(90.625vw - 75.69px);
+  }
+  
+}
+
+@media screen and (max-width: 768px) {
+  .header__logo {
+    flex-basis: calc(93.75vw - 75.69px);
+  }
+  
+}
+
+@media screen and (max-width: 320px) {
+  .header__logo {
+    width: 142px;
+    flex-basis: calc(90vw - 75.69px);
+  }
+  
+}
