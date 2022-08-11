@@ -1,0 +1,10 @@
+.website__link {
+  font-family: 'Inter', sans-serif;
+  font-weight: normal;
+  font-size: 1.125rem;
+  color: #fff;
+}
+
+.website__link:hover {
+  opacity: 0.8;
+}

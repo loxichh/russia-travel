@@ -31,3 +31,18 @@
 /* photo-grid */
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
+
+/* places */
+@import url(../blocks/places/places.css);
+
+/* place */
+@import url(../blocks/place/place.css);
+@import url(../blocks/place/__title/place__title.css);
+@import url(../blocks/place/__website/place__website.css);
+@import url(../blocks/place/__image/place__image.css);
+@import url(../blocks/place/__paragraph/place__paragraph.css);
+
+/* website */
+@import url(../blocks/website/website.css);
+@import url(../blocks/website/__url-heading.css/website__url-heading.css);
+@import url(../blocks/website/__link/website__link.css);
