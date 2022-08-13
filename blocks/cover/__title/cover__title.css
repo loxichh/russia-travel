@@ -1,0 +1,10 @@
+.cover__title {
+  position: relative;;
+  z-index: 1;
+
+  text-decoration: none;
+  color: #fff;
+  font-weight: 900;
+  font-size: 4.5rem;
+  line-height: 106%;
+}
