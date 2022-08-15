@@ -22,7 +22,8 @@
 @media screen and (max-width: 768px) {
   .places {
     width: 93.75vw;
-    min-width: 321px;
+    min-width: 320px;
+
     margin: 5.5rem auto 0;
   }
   
@@ -31,7 +32,7 @@
 @media screen and (max-width: 320px) {
   .places {
     width: 100%;
-    margin: 4rem auto 0;
+    margin: 4rem 0 0;
   }
   
 }

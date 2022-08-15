@@ -1,6 +1,7 @@
 .place__paragraph {
   margin: 1.625rem auto 0;
-  font-weight: normal;
+
+  font-weight: 400;
   font-size: 1.125rem;
   line-height: 163%;
 }
@@ -9,15 +10,16 @@
   margin: 0 auto;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .place__paragraph {
-    font-size: 1rem;
     width: 90vw;
+
     margin: 1.5625rem auto 0;
     
+    font-size: 1rem;
   }
 
-  .place__paragraph:first-of-type {
+  .place__paragraph:first-of-type { 
     margin: 2rem auto 0;
   }
 
