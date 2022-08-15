@@ -12,5 +12,5 @@
 *Технологии*
 * Live-Server
 
-*Ссылка на GH-Pages*(https://loxichh.github.io/russia-travel/)
+<!-- *Ссылка на GH-Pages*(https://loxichh.github.io/russia-travel/) -->
 
