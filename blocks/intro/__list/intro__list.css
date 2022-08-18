@@ -2,4 +2,8 @@
   padding: 0;
   margin: 2.125rem 0 0;
   list-style: none;
+
+  font-weight: 700;
+  font-size: .75rem;
+  line-height: 150%;
 }

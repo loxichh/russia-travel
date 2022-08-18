@@ -9,30 +9,9 @@
 }
 
 
-@media screen and (max-width: 1279px) {
-  .intro__text {
-    width: 54vw;
-  }
-  
-}
-
-@media screen and (max-width: 1024px) {
-  .intro__text {
-    width: 67.38vw;
-  }
-
-}
-
 @media screen and (max-width: 768px) {
   .intro__text {
-    width: 93.75vw;
-  }
-
-}
-
-@media screen and (max-width: 320px) {
-  .intro__text {
-    width: 90vw;
+    width: 100%;
   }
 
 }
