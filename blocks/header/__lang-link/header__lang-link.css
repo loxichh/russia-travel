@@ -4,8 +4,21 @@
   font-weight: normal;
   font-size: 1.5rem;
   line-height: 1.25rem;
+
+  transition: .2s linear;
 }
 
 .header__lang-link:last-of-type {
   padding: 0;
+}
+
+.header__lang-link:hover {
+  opacity: .8;
+}
+
+@media screen and (max-width: 320px) {
+  .header__lang-link {
+    font-size: 1.125rem;
+  }
+
 }

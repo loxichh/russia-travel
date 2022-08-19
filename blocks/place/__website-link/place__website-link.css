@@ -1,9 +1,13 @@
 .place__website-link {
-font-weight: normal;
+  max-width: fit-content;
+
+  transition: .2s linear;
+  
+  font-weight: normal;
   font-size: 1.125rem;
   color: #fff;
 }
 
 .place__website-link:hover {
-  opacity: 0.8;
+  opacity: .8;
 }

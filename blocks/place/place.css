@@ -36,6 +36,8 @@
 @media screen and (max-width: 767px) {
   .place { 
     display: block;
+
+    margin: 3.125rem 0 0;
   }
 
 }

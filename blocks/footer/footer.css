@@ -5,7 +5,9 @@
   justify-content: space-between;
 
   margin: 0 auto 1.5rem;
+
 }
+
 @media screen and (max-width: 1279px) {
   .footer {
     width: 92.5%;
