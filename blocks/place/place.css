@@ -29,6 +29,8 @@
   .place {
     grid-template-columns: 47.223% 48.889%;
     gap: 3rem 1.75rem;
+
+    margin: 4.5625rem 0 0;
   }
   
 }

@@ -6,15 +6,26 @@
   text-align: center;
   font-weight: 900;
   font-size: 6rem;
-  line-height: 120%;
+  line-height: 104%;
+}
+
+@media screen and (max-width: 767px) {
+  .lead__title {
+    font-size: 12.5vw;
+  }
+  
 }
 
 @media screen and (max-width: 767px) {
   .lead__title {
     width: 90%;
-
-    font-size: 12.5vw;
-    line-height: 104%;
   }
-  
+
+}
+
+@media screen and (max-width: 320px) {
+  .lead__title {
+    line-height: 110%;
+  }
+
 }
