@@ -1,5 +1,5 @@
 .cover__background {
-  max-width: 1184px;
+  width: 100%;
   min-height: 740px;
 
   display: flex;
@@ -30,13 +30,11 @@
 
 .cover__background:hover::before {
   opacity: .8;
-
 }
 
 
 @media screen and (max-width: 1279px) {
   .cover__background {
-    width: 100%;
     min-height: 640px;
   }
 

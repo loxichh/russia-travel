@@ -27,7 +27,6 @@
 
 @media screen and (max-width: 1023px) {
   .photo-grid { 
-    min-width: 720px;
 
     grid-template-columns: repeat(2, 1fr);
     gap: 1rem;
@@ -47,7 +46,7 @@
 @media screen and (max-width: 767px) {
   .photo-grid { 
     width: 90%;
-      
+
     grid-template-columns: repeat(1, 1fr);
     gap: .75rem;
 
