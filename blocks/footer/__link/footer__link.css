@@ -21,9 +21,5 @@
     font-size: 1.5rem;
     line-height: 100%;
   }
-
-  .footer__link:last-of-type {
-    margin: 0 0 2.5rem;
-  }
-
+  
 }
